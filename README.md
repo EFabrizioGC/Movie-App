@@ -33,7 +33,7 @@ Use the following links in order to retrieve the movies information.
 
 ## Notes
 
-- Don't use any laravel package to make the API Module.
+- Write themoviedb API module from Scratch.
 - To submit your solution, write a mail to bgeronimov@bluestudio.mx
 with your solution in a zip.
 
