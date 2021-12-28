@@ -1,4 +1,4 @@
-## Movie App
+# Movie App
 
 <p align="center"><img src="https://media.discordapp.net/attachments/898595001624322120/925211029292597258/preview.jpg?width=859&height=644" width="1000"></p>
 
