@@ -32,7 +32,6 @@ Use the following links in order to retrieve the movies information.
 - Test your API using PHPUnit or Pest.
 
 ## Notes
-<hr>
 
 - Don't use any laravel package to make the API Module.
 - To submit your solution, write a mail to bgeronimov@bluestudio.mx
