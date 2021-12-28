@@ -27,7 +27,7 @@ Use the following links in order to retrieve the movies information.
 <img src="https://media.discordapp.net/attachments/898595001624322120/925214909149630545/unknown.png">
 
 ## 2. Back-end
-- Write a module that helps to use the API through all the laravel application.
+- Write a module that helps to use the API from Themoviedb through all the laravel application.
 - Write clean, reusable and well formatted code.
 - Test your API using PHPUnit or Pest.
 
