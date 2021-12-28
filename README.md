@@ -3,12 +3,12 @@
 <p align="center"><img src="https://media.discordapp.net/attachments/898595001624322120/925211029292597258/preview.jpg?width=859&height=644" width="1000"></p>
 
 
-##Description
+###Description
 Create a movie application that allows users to see their "Top Rated Movies" and "Now Playing Movies".
 
 ### API
 
-####Before starting get your API_KEY at https://www.themoviedb.org. 
+###Before starting get your API_KEY at https://www.themoviedb.org. 
 
 Use the following links in order to retrieve the movies information.
 
